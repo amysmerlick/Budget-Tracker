@@ -15,7 +15,8 @@ mongoose.connect(
     }
   );
 
-const PORT = 3000;
+  const PORT = process.env.PORT || 3000;
+  console.log(process.env.PORT)
 
 const app = express();
 
@@ -31,6 +32,5 @@ app.use(express.static("public"));
 // routes
 app.use(require("./routes/api.js"));
 
-app.listen(PORT, () => {
-  console.log(`App running on port ${PORT}!`);
-});
+console.log("Starting server")
+app.listen(process.env.PORT, () => console.log(`Listening on PORT: ${PORT}`));
