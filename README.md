@@ -2,7 +2,7 @@
 
 #  Description 🏃🏃
 
-Fittness Tracker is an online application that gives user access to creating and tracking daily workouts. This will help a user achience their fitness goals quickly.
+Budget Tracker is an online application that gives a user access to tracking daily expenses. This can be done while offline. A user can enter deposits and withdrawls while keeping an accurate account balance.
 
 
 
@@ -30,14 +30,14 @@ Amy Smerlick
 ![Amy's Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amysmerlick&theme=blue-green)
 
 # Instructions
-Head to my website: [Fitness Tracker](https://fitness-tracker-amy-smerlick.herokuapp.com/)
+Head to my website: [Budget Tracker](https://budgettracker-amysmerlick.herokuapp.com/)
 
 OR
 
 Clone my repo, run 'npm install express' in the command line, run the Schema in MongoDB, then run 'spm start' in the command line. Open your browser to the appropriate local host. 
 
 # Credits
-Thank you to Penn LPS Coding Bootcamp, instructors, peers, [JavaScript](https://www.javascript.com/), jQuery, [NPM](https://www.npmjs.com/) and its packages, [Express.js](https://expressjs.com/), and Heroku.
+Thank you to Penn LPS Coding Bootcamp, instructors, peers, [JavaScript](https://www.javascript.com/), [NPM](https://www.npmjs.com/),  and its packages, [Express.js](https://expressjs.com/), MongoDB Atlas, amd Heroku.
 
 # License
 The application you're enjoying is covered under the MIT license
