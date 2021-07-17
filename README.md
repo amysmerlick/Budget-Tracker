@@ -15,7 +15,12 @@ Budget Tracker is an online application that gives a user access to tracking dai
  * [Questions](#questions)
 
 # Demo
-Head to this link to watch a demonstration of the app- [Video Demo](https://drive.google.com/file/d/13N45OzYcqpxigk8mPh_8Myh2wOyP-JTn/view?usp=sharing)
+Scan the QR Code beloe for the video demo.
+
+
+![qr-code](https://user-images.githubusercontent.com/77814900/126041208-8ceb1414-2c9e-4cd7-bc22-3d7838d2a94a.png)
+
+*****
 
 # Usage
 ![Budget Tracker](https://user-images.githubusercontent.com/77814900/126040753-707a25fd-054e-4ce4-8862-bedcabe727ae.png)
